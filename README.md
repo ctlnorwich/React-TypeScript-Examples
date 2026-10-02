@@ -17,8 +17,8 @@ Text input and counter with separate button component. A revised version of the 
 
 ## Game
 
-Adapted from [Tutorial: Tic-Tac-Toe](https://react.dev/learn/tutorial-tic-tac-toe). Added types and `useEffect` to create a temporary colour change.
+Adapted from [Tutorial: Tic-Tac-Toe](https://react.dev/learn/tutorial-tic-tac-toe) in the offical docs. Added type declarations and `useEffect` to create a temporary colour change.
 
 ## Questions
 
-Load questions from a json file using JSON Server. Run `npx json-server db.json` in and they should be available from `http://localhost:3000/questions`.
+Load questions from a json file using JSON Server. Run `npx json-server db.json` in and they should be available from `http://localhost:3000/questions`. These questions are used in the [JavaScript Quiz App Examples](https://github.com/ctlnorwich/JavaScript-Quiz-App-Examples) repo.
