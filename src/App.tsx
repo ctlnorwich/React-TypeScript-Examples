@@ -7,7 +7,7 @@ export default function App() {
 
   return (
       <main id="center">
-          <h1>React Examples</h1>
+          <h1>React TypeScript Examples</h1>
           <Game />
           <Counter/>
           <Questions/>
