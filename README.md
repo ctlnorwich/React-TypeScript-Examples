@@ -6,14 +6,14 @@ The example app covers the following aspects of React:
 
 1. Components (parent and child relationships)
 2. Props (including callback functions)
-3. The useState hook
-4. The useEffect hook
+3. The `useState` hook
+4. The `useEffect` hook
 
 The example app has three main React Components:
 
 ## Counter
 
-Text input and counter with separate button component. A revised version of the vite example from [Build a React app from Scratch](https://react.dev/learn/build-a-react-app-from-scratch) in the official docs. This example removes the styling, moves the count button to new component and adds a text input example.
+A revised version of the vite example from [Build a React app from Scratch](https://react.dev/learn/build-a-react-app-from-scratch) in the official docs. This example removes the styling, moves the count button to a new component and adds a text input example.
 
 ## Game
 
