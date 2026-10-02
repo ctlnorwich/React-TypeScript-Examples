@@ -31,7 +31,7 @@ export default function Counter() {
     setCount((count) => count + 3);
   }
 
-  // A callback function for updateing the state of inputText
+  // A callback function for updating the state of inputText. Note the ChangeEvent type declaration imported from react
   const updateInputText = (e: ChangeEvent<HTMLInputElement>) => setInputText(e.currentTarget.value)
 
   return (
