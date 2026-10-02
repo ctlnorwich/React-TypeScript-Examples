@@ -21,4 +21,4 @@ Adapted from [Tutorial: Tic-Tac-Toe](https://react.dev/learn/tutorial-tic-tac-to
 
 ## Questions
 
-Load questions from a json file using JSON Server. Run `npx json-server db.json` in and they should be available from `http://localhost:3000/questions`. These questions are used in the [JavaScript Quiz App Examples](https://github.com/ctlnorwich/JavaScript-Quiz-App-Examples) repo.
+Load questions from a json file using JSON Server. Run `npx json-server db.json` in another terminal window and they should be available from `http://localhost:3000/questions`. These questions are used in the [JavaScript Quiz App Examples](https://github.com/ctlnorwich/JavaScript-Quiz-App-Examples) repo.
